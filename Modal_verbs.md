@@ -1,17 +1,8 @@
 # Need to fix
 4. Добавить к пункту Logical assumption название Глаголы возможности, вероятности и Logical assumption (пункт должен включать таблицу (ст. 52 Round-up 5))
-5. добавить к need
 
-didn't need to do something (we don't know if the action is done)
-- We knew that the release would be postponed till next week, so we didn't need to work overtime yesterday.
-
-needn't have done something (we know that the action is done)
-- You needn't have bought so much milk. I have already taken it. (We see the person with already bought milk);
-- You needn't have worked overtime, we have postponed the release.
-Have to -> be obliged to
-used to (would )
-Добавить в пункт Глаголы долженствования
-Be to
+- Добавить в пункт Глаголы долженствования
+Be to.
 Be to refers to what someone is obliged or required to do. We also use it to refer to formal decisions:
 [referring to an obligation]
 I'm to join every meeting on time.
@@ -37,14 +28,14 @@ I'm not to miss any messages
 | may        | be allowed to, be permited to        | мочь, иметь разрешение                                    |
 | must       | have to, be to                       | быть должным                                              |
 | ought to   | should, had better                   | следует, следовало бы(рекомендация, совет)                |
-| have to    | must, be to                          | вынужден, приходится                                      |
+| have to    | must, be obliged to                  | вынужден, приходится                                      |
 | be to      | have to, must                        | должен(по плану)                                          |
 | need       | -                                    | нуждается(как просьба о разрешении)                       |
 | should     | ought to, be supposed to, had better | следует, следовало бы(совет)                              |
 | would      | -                                    | желать                                                    |
 | shall/will | should, had better                   | предложение о помощи(вежливая форма), обещание, намерение |
 | dare       | -                                    | сметь, осмелится сделать что-то (вспомни Гретту }:D)      |
-| used to    | -                                    | описание действия или состояния имевшего место в прошлом  |
+| used to    | would                                | описание действия или состояния имевшего место в прошлом  |
 
 [К описанию](#описание)<br>
 
@@ -84,13 +75,20 @@ I'm not to miss any messages
 
 <br>
 
-`Need to` - %перевод%
-<br> %описание%.
+`Need to` - нужно, требуеттся
+<br> Необходимость в совершении действия.
 <br> Сокращение отрицательной формы: needn't = don't need to.
 <br>Примеры:
 ```txt
 [необходимость]
 - I need to pack my clothes before I go to the flat.
+
+[не нужно делать что-то (мы не знаем завершилось ли действие)]
+- We knew that the release would be postponed till next week, so we didn't need to work overtime yesterday.
+
+[не нужно было делать что-то (мы знаем, что действие выполнено)]
+- You needn't have bought so much milk. I have already taken it. (We see the person with already bought milk);
+- You needn't have worked overtime, we have postponed the release.
 ```
 
 [К описанию](#описание)<br>
