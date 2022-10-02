@@ -1,6 +1,4 @@
 # Need to fix
-4. Добавить к пункту Logical assumption название Глаголы возможности, вероятности и Logical assumption (пункт должен включать таблицу (ст. 52 Round-up 5))
-
 - Добавить в пункт Глаголы долженствования
 Be to.
 Be to refers to what someone is obliged or required to do. We also use it to refer to formal decisions:
