@@ -210,6 +210,77 @@ I'm not to miss any messages
 <br>
 
 ### Глаголы возможности, вероятности (Logical assumption)
+#### Possibility
+<br>`may / might / could + present infinitive` == perhaps
+<br> Возможно, что-то произойдет в будущем или, возможно, это истина на данный момент.
+<br>Пример:
+```txt
+- Sam may / might / could pass his test this time. (It's possible that he will pass his test.)
+- Where 's Jean? She could be at school. 
+```
+
+<br>`may / might / could + perfect infinitive` == perhaps something happened in the past.
+<br>Пример:
+```txt
+- She looks miserable. She may / might / could have lost her job. (Perhaps she has lost her job.)
+```
+
+<br>`Could + perfect infinitive` == something which was possible but didn't actually happen.
+<br>Пример:
+```txt
+- Don't drive so fast! You could have hit that dog. (Luckily, you didn't hit the dog.)
+```
+
+<br>
+
+#### Probabillity
+<br>`ought to  / should + present infinitive` == something is probable now or in the future
+<br>Пример:
+```txt
+- Tom ought to / should pass his exams. (He will probably pass.) 
+```
+
+<br>`ought to  / should +  perfect infinitive` == we Has expected something to happen but we don't know if it happened or not.
+<br>Пример:
+```txt
+- Has Nancy reached Paris yet? She ought to / should have phoned an hour ago. (We don't know whether she phoned or not.)
+```
+
+<br>
+
+#### Logical assumption
+`can't / couldn't + present infinitive` == I don't think so; it's logically improbable.
+<br>Пример:
+```txt
+- She can't be rich. She lives in a small flat. (I don't think she's rich.)
+```
+
+<br>`must + present infinitive` == I think so, I'm fairly sure; it's logically probable.
+<br>Пример:
+```txt
+- His face is red. He must be very angry. (I think he's very angry.)
+```
+
+<br>`can't / couldn't + perfect infinitive` == It's impossible that something happened in the past.
+<br>Пример:
+```txt
+- She can't / couldn't have lost her way. (It's not possible she lost her way)
+```
+
+<br>`must + perfect infinitive` == = It's very probable that something happened in the past.
+<br>Пример:
+```txt
+- She must have missed the train. (It's very probable she missed the train.)
+```
+
+[К описанию](#описание)<br>
+
+<br>
+<br>
+<br>
+<br>
+
+=========================================================== TO DELETE ?
 `could`
 <br>Примеры:
 ```txt
@@ -235,5 +306,5 @@ I'm not to miss any messages
 
 <br>(20%) Could
 <br>It could be sunny in the evening.
+==============================================================
 
-[К описанию](#описание)<br>
